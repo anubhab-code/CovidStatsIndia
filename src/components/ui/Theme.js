@@ -1,6 +1,6 @@
 import { createMuiTheme } from "@material-ui/core/styles";
 
-const greyBlue = "#f5f5f5";
+const greyBlue = "#171c28";
 const blackSecondary = "#212121";
 
 export default createMuiTheme({
