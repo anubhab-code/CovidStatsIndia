@@ -1,6 +1,6 @@
 import React from "react";
 
-import profile from "../profileAvatar.svg";
+import profile from "../profileAvatar.jpg";
 
 const Footer = () => {
   return (
