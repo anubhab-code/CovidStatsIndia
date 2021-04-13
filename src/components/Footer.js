@@ -32,7 +32,7 @@ const Footer = () => {
         /a> <
         a href = "https://www.linkedin.com/in/anubhabcodes/" >
         <
-        i className = "fab fa-linkedin fa-2x" > < /i> <
+        i className = "fa fa-linkedin fa-2x" > < /i> <
         /a> <
         a href = "https://www.instagram.com/anubhab.exe/" >
         <
