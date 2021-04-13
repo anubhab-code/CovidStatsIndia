@@ -224,10 +224,12 @@ footer .left-info {
 
 footer .left-info .text_ span p {
     font-weight: 500 !important;
+    color: var(--main-blue-color);
 }
 
 footer .left-info p {
     font-size: 14px;
+    color: var(--main-blue-color);
 }
 
 footer .left-info .profile {
