@@ -23,9 +23,6 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/anubhabcodes/">
           <i className="fa fa-linkedin fa-2x"></i>
         </a>
-        <a href="https://www.instagram.com/anubhab.exe/">
-          <i className="fa fa-instagram fa-2x"></i>
-        </a>
       </div>
     </footer>
   );
