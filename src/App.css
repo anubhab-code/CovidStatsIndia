@@ -12,7 +12,7 @@ body {
     --main-dark-color: #333333;
     --main-red-color: #ff736b;
     --main-orange-color: #ff9f1c;
-    --main-blue-color: #171c28;
+    --main-blue-color: #68e1fd;
     --main-green-color: #06d6a0;
     color: var(--main-dark-color);
     max-width: 480px;
@@ -62,7 +62,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--main-dark-color);
+    color: #ffffff;
 }
 
 header h1 {
@@ -171,6 +171,10 @@ header h1 {
 
 /* Main Deaths Color */
 
+.sec-section .info .deaths .main {
+    color: var(--main-red-color);
+}
+
 .sec-section .info .deaths .sec {
     color: var(--main-red-color);
 }
@@ -241,6 +245,6 @@ footer .right-info {
 
 footer .right-info a {
     text-decoration: none;
-    color: var(--main-dark-color);
+    color: var(--main-blue-color);
     padding-left: 0.3rem;
 }
