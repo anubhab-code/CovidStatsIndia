@@ -93,6 +93,10 @@ header h1 {
     color: var(--main-orange-color);
 }
 
+.main-section .info .last-3-days {
+    color: #d0ff00;
+}
+
 .main-section .info .avg-daily .avg-daily-count {
     display: flex;
     justify-content: start;
@@ -145,6 +149,17 @@ header h1 {
 
 
 /* Typograhy */
+
+
+/* Selector */
+
+.css-yk16xz-control {
+    color: #ffffff;
+}
+
+.css-1wa3eu0-placeholder {
+    color: #ffffff;
+}
 
 
 /* Main Blue Color */
