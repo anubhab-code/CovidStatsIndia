@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covidstatsindia/static/css/main.6d1528a0.chunk.css",
+    "main.js": "/covidstatsindia/static/js/main.7c1d79ea.chunk.js",
+    "main.js.map": "/covidstatsindia/static/js/main.7c1d79ea.chunk.js.map",
+    "runtime-main.js": "/covidstatsindia/static/js/runtime-main.f5f7e435.js",
+    "runtime-main.js.map": "/covidstatsindia/static/js/runtime-main.f5f7e435.js.map",
+    "static/js/2.79679491.chunk.js": "/covidstatsindia/static/js/2.79679491.chunk.js",
+    "static/js/2.79679491.chunk.js.map": "/covidstatsindia/static/js/2.79679491.chunk.js.map",
+    "index.html": "/covidstatsindia/index.html",
+    "precache-manifest.9ddfd5c5411eb8bba93b3135b1420888.js": "/covidstatsindia/precache-manifest.9ddfd5c5411eb8bba93b3135b1420888.js",
+    "service-worker.js": "/covidstatsindia/service-worker.js",
+    "static/css/main.6d1528a0.chunk.css.map": "/covidstatsindia/static/css/main.6d1528a0.chunk.css.map",
+    "static/js/2.79679491.chunk.js.LICENSE.txt": "/covidstatsindia/static/js/2.79679491.chunk.js.LICENSE.txt",
+    "static/media/first_graphic.svg": "/covidstatsindia/static/media/first_graphic.9432ddaf.svg",
+    "static/media/profileAvatar.jpg": "/covidstatsindia/static/media/profileAvatar.71bb19a1.jpg",
+    "static/media/second_graphic.svg": "/covidstatsindia/static/media/second_graphic.6b55a616.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f7e435.js",
+    "static/js/2.79679491.chunk.js",
+    "static/css/main.6d1528a0.chunk.css",
+    "static/js/main.7c1d79ea.chunk.js"
+  ]
+}
